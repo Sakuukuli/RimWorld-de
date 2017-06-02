@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<AlcoholHigh.label>Alkohol</AlcoholHigh.label>
+	<AlcoholHigh.stages.0.label>leicht warm (versteckt)</AlcoholHigh.stages.0.label>
+	<AlcoholHigh.stages.1.label>warm</AlcoholHigh.stages.1.label>
+	<AlcoholHigh.stages.2.label>angeheitert</AlcoholHigh.stages.2.label>
+	<AlcoholHigh.stages.3.label>betrunken</AlcoholHigh.stages.3.label>
+	<AlcoholHigh.stages.4.label>dicht</AlcoholHigh.stages.4.label>
+	<AlcoholHigh.stages.5.label>Blackout</AlcoholHigh.stages.5.label>
+	
+	<AlcoholTolerance.label>Alkohol-Toleranz</AlcoholTolerance.label>
+	<AlcoholAddiction.label>Alkohol-Sucht</AlcoholAddiction.label>
+	<AlcoholAddiction.stages.0.label>Entzug</AlcoholAddiction.stages.0.label>
+	
+	<Hangover.label>Kater</Hangover.label>
+	<Hangover.stages.0.label>leicht</Hangover.stages.0.label>
+	<Hangover.stages.1.label>stark</Hangover.stages.1.label>
+	<Hangover.stages.2.label>pochend</Hangover.stages.2.label>
+
+	<WakeUpHigh.label>High von HalloWach</WakeUpHigh.label>
+	<WakeUpTolerance.label>HalloWach-Toleranz</WakeUpTolerance.label>
+	<WakeUpAddiction.label>HalloWach-Sucht</WakeUpAddiction.label>
+	<WakeUpAddiction.stages.0.label>Entzug</WakeUpAddiction.stages.0.label>
+	
+	<SmokeleafHigh.label>High von Rauchblatt</SmokeleafHigh.label>
+	<SmokeleafTolerance.label>Rauchblatt-Toleranz</SmokeleafTolerance.label>
+	<SmokeleafAddiction.label>Rauchblatt-Sucht</SmokeleafAddiction.label>
+	<SmokeleafAddiction.stages.0.label>Entzug</SmokeleafAddiction.stages.0.label>
+	
+	<FlakeHigh.label>High von Psychid (Flake)</FlakeHigh.label>
+	<YayoHigh.label>High von Psychid (Yayo)</YayoHigh.label>
+	<PsychiteTolerance.label>Psychid-Toleranz</PsychiteTolerance.label>
+	<PsychiteAddiction.label>Psychid-Sucht</PsychiteAddiction.label>
+	<PsychiteAddiction.stages.0.label>Entzug</PsychiteAddiction.stages.0.label>
+	
+	<GoJuiceHigh.label>High von GoJuice</GoJuiceHigh.label>
+	<GoJuiceTolerance.label>GoJuice-Toleranz</GoJuiceTolerance.label>
+	<GoJuiceAddiction.label>GoJuice-Sucht</GoJuiceAddiction.label>
+	<GoJuiceAddiction.stages.0.label>Entzug</GoJuiceAddiction.stages.0.label>
+	
+	
+	<LuciferiumHigh.label>High von Luciferium</LuciferiumHigh.label>
+	<LuciferiumAddiction.label>Luciferium-Sucht</LuciferiumAddiction.label>
+	<LuciferiumAddiction.stages.0.label>Unbefriedigt</LuciferiumAddiction.stages.0.label>
+	
+	<PenoxycylineHigh.label>Penoxzylin</PenoxycylineHigh.label>
+	
+	<AmbrosiaHigh.label>Ambrosia Wärme</AmbrosiaHigh.label>
+	
+	<AmbrosiaTolerance.label>Ambrosia-Toleranz</AmbrosiaTolerance.label>
+	<AmbrosiaAddiction.label>Ambrosia-Sucht</AmbrosiaAddiction.label>
+	<AmbrosiaAddiction.stages.1.label>Entzug</AmbrosiaAddiction.stages.1.label>
+	
+</LanguageData>

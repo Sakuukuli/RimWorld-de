@@ -14,12 +14,23 @@
 
   <!-- Shells -->
 
-  <ArtilleryShell.label>Artillerie Geschoss</ArtilleryShell.label>
-  <ArtilleryShell.description>Wird von Artillerie verschossen.</ArtilleryShell.description>
+  <MortarShell.label>Mörser Geschoss</MortarShell.label>
+  <MortarShell.description>Wird von Mörsern verschossen.</MortarShell.description>
 
-  <!-- Components -->
+  <!-- Component -->
 
-  <Components.label>Bauteile</Components.label>
-  <Components.description>Verschiedene Getriebe, Kondensatoren, Leiterplatten, Röhren, Räder, Sensoren, Chips, Prozessoren und andere elekronische und industirelle Teile. Notwendig zum Bauen und Reparieren von komplexen Maschinen und elektronischen Anlagen.</Components.description>
+  <Component.label>Bauteil</Component.label>
+  <Component.description>Verschiedene Getriebe, Kondensatoren, Leiterplatten, Röhren, Räder, Sensoren, Chips, Prozessoren und andere elektronische und industrielle Teile. Notwendig zum Bauen und Reparieren von komplexen Maschinen und elektronischen Anlagen.</Component.description>
 
+  <!-- Neutroamine -->
+  
+  <Neutroamine.label>Neutramin</Neutroamine.label>
+  <Neutroamine.description>Ein synthetisch-chemischer Neutralisator. Eigentlich ohne jeden Nutzen, wird aber bei der Produktion vieler Drogen als Zutat benötigt.</Neutroamine.description>
+  
+  <!-- Chemfuel -->
+  
+  <Chemfuel.label>Kraftstoff</Chemfuel.label>
+  <Chemfuel.description>Ein unstabiler chemischer Treibstoff mit dem man Raketen und andere Maschinen antreiben kann.</Chemfuel.description>
+  
+  
 </LanguageData>

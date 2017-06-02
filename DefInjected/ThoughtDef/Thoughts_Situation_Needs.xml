@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<NeedFood.stages.0.label>Hungrig</NeedFood.stages.0.label>
+	<NeedFood.stages.0.description>Ich hab seit einiger Zeit nichts mehr gegessen und bin ziemlich hungrig.</NeedFood.stages.0.description>
+	<NeedFood.stages.1.label>Sehr Hungrig</NeedFood.stages.1.label>
+	<NeedFood.stages.1.description>Die Heißhungerattacken quälen meinen Körper und sind schwer zu ignorieren.</NeedFood.stages.1.description>
+	<NeedFood.stages.2.label>Verhungernd (trivial)</NeedFood.stages.2.label>
+	<NeedFood.stages.2.description>Es ist so lange her seit ich das letzte Mal etwas gegessen habe. Ich kann kaum klar denken und es ist schwer sich zu konzentrieren.</NeedFood.stages.2.description>
+	<NeedFood.stages.3.label>Verhungernd (leicht)</NeedFood.stages.3.label>
+	<NeedFood.stages.3.description>Ich fühle schon, wie mein Körper stirbt. Mein Magen schmerzt wie nie zuvor.</NeedFood.stages.3.description>
+	<NeedFood.stages.4.label>Verhungernd (mittel)</NeedFood.stages.4.label>
+	<NeedFood.stages.4.description>Ich kann kaum noch an etwas anderes als Essen denken. Meine Haut spannt sich schon über meinen Knochen. Werde ich sterben?</NeedFood.stages.4.description>
+	<NeedFood.stages.5.label>Verhungernd (schwer)</NeedFood.stages.5.label>
+	<NeedFood.stages.5.description>Ich kann mich kaum noch bewegen und kann nur noch an Essen denken. Die Schmerzen in meinem Magen sind unerträglich. Ich fühle mich als wenn ich jeden Moment zusammenbreche..</NeedFood.stages.5.description>
+	<NeedFood.stages.6.label>Verhungernd (extrem)</NeedFood.stages.6.label>
+	<NeedFood.stages.6.description>Essen... Essen... Nur einen kleinen Bissen... Alles... Bitte...</NeedFood.stages.6.description>
+
+	<NeedRest.stages.0.label>Müde</NeedRest.stages.0.label>
+	<NeedRest.stages.0.description>Ich habe seit einiger Zeit nicht geschlafen.</NeedRest.stages.0.description>
+	<NeedRest.stages.1.label>Sehr Müde</NeedRest.stages.1.label>
+	<NeedRest.stages.1.description>Ich bin so müde. Ich will mich nur noch hinlegen und für ein paar Minuten Pause machen...</NeedRest.stages.1.description>
+	<NeedRest.stages.2.label>Erledigt</NeedRest.stages.2.label>
+	<NeedRest.stages.2.description>Ich bin fix und fertig, ich kann kaum noch stehen. Meine Augen sind schwer wie Blei. Bitte, lass mich schlafen...</NeedRest.stages.2.description>
+
+	<NeedJoy.stages.0.label>Absoluter Vergnügungsmangel</NeedJoy.stages.0.label>
+	<NeedJoy.stages.0.description>Es ist zu lange her, seit ich mich das letzte Mal vergnügen konnte.</NeedJoy.stages.0.description>
+	<NeedJoy.stages.1.label>Starker Vergnügungsmangel</NeedJoy.stages.1.label>
+	<NeedJoy.stages.1.description>Ich habe nie Zeit, mich ein wenig zu vergnügen.</NeedJoy.stages.1.description>
+	<NeedJoy.stages.2.label>Vergnügungsmangel</NeedJoy.stages.2.label>
+	<NeedJoy.stages.2.description>Ich könnte wirklich eine Pause vertragen und etwas Vergnügliches machen.</NeedJoy.stages.2.description>
+	<NeedJoy.stages.3.label>Vergnügt</NeedJoy.stages.3.label>
+	<NeedJoy.stages.3.description>Ich hatte hier kürzlich eine gute Zeit.</NeedJoy.stages.3.description>
+	<NeedJoy.stages.4.label>Sehr vergnügt</NeedJoy.stages.4.label>
+	<NeedJoy.stages.4.description>Ich habe das so sehr genossen. Endlich einmal richtig abschalten. Das war perfekt!</NeedJoy.stages.4.description>
+
+	<NeedComfort.stages.0.label>Ungemütlich</NeedComfort.stages.0.label>
+	<NeedComfort.stages.0.description>Mir ist es ziemlich ungemütlich hier. Wir brauchen hier unbedingt etwas Weiches zum Sitzen.</NeedComfort.stages.0.description>
+	<NeedComfort.stages.1.label>Gemütlich</NeedComfort.stages.1.label>
+	<NeedComfort.stages.1.description>Ich finde es hier ganz gemütlich.</NeedComfort.stages.1.description>
+	<NeedComfort.stages.2.label>Sehr gemütlich</NeedComfort.stages.2.label>
+	<NeedComfort.stages.2.description>Ich finde es hier sehr gemütlich.</NeedComfort.stages.2.description>
+	<NeedComfort.stages.3.label>Richtig gemütlich</NeedComfort.stages.3.label>
+	<NeedComfort.stages.3.description>Ich finde es hier richtig gemütlich. Hier ist es so schön kuschelig!</NeedComfort.stages.3.description>
+	<NeedComfort.stages.4.label>Luxuriös gemütlich</NeedComfort.stages.4.label>
+	<NeedComfort.stages.4.description>Ich schlafe auf Wolken!</NeedComfort.stages.4.description>
+
+	<NeedBeauty.stages.0.label>Hässliche Umgebung</NeedBeauty.stages.0.label>
+	<NeedBeauty.stages.0.description>Es ist unangenehm an diesem Ort zu sein.</NeedBeauty.stages.0.description>
+	<NeedBeauty.stages.1.label>Sehr hässliche Umgebung</NeedBeauty.stages.1.label>
+	<NeedBeauty.stages.1.description>Dieser Ort ist sehr unangenehm. Ich will nicht hier sein.</NeedBeauty.stages.1.description>
+	<NeedBeauty.stages.2.label>Abscheuliche Umgebung</NeedBeauty.stages.2.label>
+	<NeedBeauty.stages.2.description>Dieser Ort ist unerträglich. Ich will hier raus...</NeedBeauty.stages.2.description>
+	<NeedBeauty.stages.3.label>Angenehme Umgebung</NeedBeauty.stages.3.label>
+	<NeedBeauty.stages.3.description>Dieser Ort ist schön.</NeedBeauty.stages.3.description>
+	<NeedBeauty.stages.4.label>Sehr angenehme Umgebung</NeedBeauty.stages.4.label>
+	<NeedBeauty.stages.4.description>Ich mag diesen Ort sehr. Hier ist es sehr schön.</NeedBeauty.stages.4.description>
+	<NeedBeauty.stages.5.label>Belebende Umgebung</NeedBeauty.stages.5.label>
+	<NeedBeauty.stages.5.description>Hier ist es wirklich sehr hübsch. An diesem Ort fühle ich mich richtig lebendig.</NeedBeauty.stages.5.description>
+
+	<NeedSpace.stages.0.label>Beengte Umgebung</NeedSpace.stages.0.label>
+	<NeedSpace.stages.0.description>Dieser Ort ist wirklich eng. Ich fühle mich, als ob ich keine Luft mehr bekomme.</NeedSpace.stages.0.description>
+	<NeedSpace.stages.1.label>Sehr beengte Umgebung</NeedSpace.stages.1.label>
+	<NeedSpace.stages.1.description>Hier bekommt man klaustrophobische Zustände. Ich kann nirgendwo hin. Ich kann mich nicht bewegen und fühle mich wie eine Ratte im Käfig.</NeedSpace.stages.1.description>
+	<NeedSpace.stages.2.label>Geräumiges Interieur</NeedSpace.stages.2.label>
+	<NeedSpace.stages.2.description>Dieser Ort ist schön groß und bietet viel Platz.</NeedSpace.stages.2.description>
+
+</LanguageData>

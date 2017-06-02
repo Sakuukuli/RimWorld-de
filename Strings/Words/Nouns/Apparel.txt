@@ -1,0 +1,22 @@
+﻿Hut
+Hemd
+Jacke
+Zylinder
+Regenmantel
+Tiefschutz
+Gürtel
+Krawatte
+Anzug
+Raumanzug
+Abendgarderobe
+Parka
+Staubmantel
+Schuh
+Hose
+Energierüstung
+Hosenträger
+Fliege
+Melone
+Baseballmütze
+Strickmütze
+Smoking Hemd

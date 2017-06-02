@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<AteInImpressiveDiningRoom.stages.3.label>Brauchbares Esszimmer</AteInImpressiveDiningRoom.stages.3.label>
+	<AteInImpressiveDiningRoom.stages.3.description>Ich habe meine Mahlzeit in einem ganz brauchbaren Esszimmer gegessen.</AteInImpressiveDiningRoom.stages.3.description>
+
+	<AteInImpressiveDiningRoom.stages.4.label>Nettes Esszimmer</AteInImpressiveDiningRoom.stages.4.label>
+	<AteInImpressiveDiningRoom.stages.4.description>Ich habe meine Mahlzeit in einem wirklich netten Esszimmer gegessen.</AteInImpressiveDiningRoom.stages.4.description>
+
+	<AteInImpressiveDiningRoom.stages.5.label>Eindrucksvolles Esszimmer</AteInImpressiveDiningRoom.stages.5.label>
+	<AteInImpressiveDiningRoom.stages.5.description>Ich habe meine Mahlzeit in einem eindrucksvollen Esszimmer gegessen.</AteInImpressiveDiningRoom.stages.5.description>
+
+	<AteInImpressiveDiningRoom.stages.6.label>Sehr eindrucksvolles Esszimmer</AteInImpressiveDiningRoom.stages.6.label>
+	<AteInImpressiveDiningRoom.stages.6.description>Ich habe meine Mahlzeit in einem sehr eindrucksvollen Esszimmer gegessen.</AteInImpressiveDiningRoom.stages.6.description>
+
+	<AteInImpressiveDiningRoom.stages.7.label>Extrem eindrucksvolles Esszimmer</AteInImpressiveDiningRoom.stages.7.label>
+	<AteInImpressiveDiningRoom.stages.7.description>Ich habe meine Mahlzeit in einem extrem eindrucksvollen Esszimmer gegessen.</AteInImpressiveDiningRoom.stages.7.description>
+
+	<AteInImpressiveDiningRoom.stages.8.label>Unglaublich eindrucksvolles Esszimmer</AteInImpressiveDiningRoom.stages.8.label>
+	<AteInImpressiveDiningRoom.stages.8.description>Ich habe meine Mahlzeit in einem unglaublich eindrucksvollen Esszimmer gegessen. Hier könnte ich für immer bleiben.</AteInImpressiveDiningRoom.stages.8.description>
+
+	<AteInImpressiveDiningRoom.stages.9.label>Ein Traum von einem Esszimmer</AteInImpressiveDiningRoom.stages.9.label>
+	<AteInImpressiveDiningRoom.stages.9.description>Ich habe meine Mahlzeit im besten Esszimmer der Welt gegessen. Hier könnte ich für immer bleiben.</AteInImpressiveDiningRoom.stages.9.description>
+
+
+
+	<JoyActivityInImpressiveRecRoom.stages.3.label>Brauchbarer Aufenthaltsraum</JoyActivityInImpressiveRecRoom.stages.3.label>
+	<JoyActivityInImpressiveRecRoom.stages.3.description>Ich hatte eine gute Zeit im Aufenthaltsraum.</JoyActivityInImpressiveRecRoom.stages.3.description>
+
+	<JoyActivityInImpressiveRecRoom.stages.4.label>Netter Aufenthaltsraum</JoyActivityInImpressiveRecRoom.stages.4.label>
+	<JoyActivityInImpressiveRecRoom.stages.4.description>Ich hatte eine gute Zeit im netten Aufenthaltsraum.</JoyActivityInImpressiveRecRoom.stages.4.description>
+
+	<JoyActivityInImpressiveRecRoom.stages.5.label>Eindrucksvoller Aufenthaltsraum</JoyActivityInImpressiveRecRoom.stages.5.label>
+	<JoyActivityInImpressiveRecRoom.stages.5.description>Ich hatte eine sehr gute Zeit im eindrucksvollen Aufenthaltsraum.</JoyActivityInImpressiveRecRoom.stages.5.description>
+
+	<JoyActivityInImpressiveRecRoom.stages.6.label>Sehr eindrucksvoller Aufenthaltsraum</JoyActivityInImpressiveRecRoom.stages.6.label>
+	<JoyActivityInImpressiveRecRoom.stages.6.description>Ich hatte eine sehr gute Zeit im sehr eindrucksvollen Aufenthaltsraum.</JoyActivityInImpressiveRecRoom.stages.6.description>
+
+	<JoyActivityInImpressiveRecRoom.stages.7.label>Extrem eindrucksvoller Aufenthaltsraum</JoyActivityInImpressiveRecRoom.stages.7.label>
+	<JoyActivityInImpressiveRecRoom.stages.7.description>Ich hatte eine sehr gute Zeit im extrem eindrucksvollen Aufenthaltsraum.</JoyActivityInImpressiveRecRoom.stages.7.description>
+
+	<JoyActivityInImpressiveRecRoom.stages.8.label>Unglaublich eindrucksvoller Aufenthaltsraum</JoyActivityInImpressiveRecRoom.stages.8.label>
+	<JoyActivityInImpressiveRecRoom.stages.8.description>Ich hatte eine sehr gute Zeit im unglaublich eindrucksvollen Aufenthaltsraum. Hier könnte ich für immer bleiben.</JoyActivityInImpressiveRecRoom.stages.8.description>
+
+	<JoyActivityInImpressiveRecRoom.stages.9.label>Ein Traum von einem Aufenthaltsraum</JoyActivityInImpressiveRecRoom.stages.9.label>
+	<JoyActivityInImpressiveRecRoom.stages.9.description>Ich hatte eine sehr gute Zeit im besten Aufenthaltsraum, den man sich nur vorstellen kann. Hier könnte ich für immer bleiben.</JoyActivityInImpressiveRecRoom.stages.9.description>
+
+	
+	
+  <SleptInBedroom.stages.0.label>Abscheuliches Schlafzimmer</SleptInBedroom.stages.0.label>
+  <SleptInBedroom.stages.0.description>Mein Schlafzimmer ist ein abscheulicher Ort.</SleptInBedroom.stages.0.description>
+
+  <SleptInBedroom.stages.3.label>brauchbares Schlafzimmer</SleptInBedroom.stages.3.label>
+  <SleptInBedroom.stages.3.description>Mein Schlafzimmer ist sehr interessant. Ich mag es.</SleptInBedroom.stages.3.description>
+
+  <SleptInBedroom.stages.4.label>Fast eindrucksvolles Schlafzimmer</SleptInBedroom.stages.4.label>
+  <SleptInBedroom.stages.4.description>Mein Schlafzimmer sieht fast eindrucksvoll aus. Ich mag es.</SleptInBedroom.stages.4.description>
+
+  <SleptInBedroom.stages.5.label>Eindrucksvolles Schlafzimmer</SleptInBedroom.stages.5.label>
+  <SleptInBedroom.stages.5.description>Mein Schlafzimmer sieht eindrucksvoll aus. Ich liebe es!</SleptInBedroom.stages.5.description>
+
+  <SleptInBedroom.stages.6.label>Sehr eindrucksvolles Schlafzimmer</SleptInBedroom.stages.6.label>
+  <SleptInBedroom.stages.6.description>Mein Schlafzimmer sieht sehr eindrucksvoll aus. Das ist der beste Ort überhaupt!</SleptInBedroom.stages.6.description>
+
+  <SleptInBedroom.stages.7.label>Extrem eindrucksvolles Schlafzimmer</SleptInBedroom.stages.7.label>
+  <SleptInBedroom.stages.7.description>Mein Schlafzimmer sieht extrem eindrucksvoll aus. Das ist der beste Ort überhaupt!</SleptInBedroom.stages.7.description>
+
+  <SleptInBedroom.stages.8.label>Unglaublich eindrucksvolles Schlafzimmer</SleptInBedroom.stages.8.label>
+  <SleptInBedroom.stages.8.description>Mein Schlafzimmer sieht unglaublich eindrucksvoll aus. Das ist der beste Ort überhaupt!</SleptInBedroom.stages.8.description>
+
+  <SleptInBedroom.stages.9.label>Übernatürlich traumhaftes Schlafzimmer</SleptInBedroom.stages.9.label>
+  <SleptInBedroom.stages.9.description>Mein Schlafzimmer ist das Beste was man sich nur vorstellen kann. Er ist perfekt!</SleptInBedroom.stages.9.description>
+
+
+  
+  <SleptInBarracks.stages.0.label>Abscheuliche Baracke</SleptInBarracks.stages.0.label>
+  <SleptInBarracks.stages.0.description>Meine Baracke ist ein abscheulicher Ort.</SleptInBarracks.stages.0.description>
+
+  <SleptInBarracks.stages.1.label>Schreckliche Baracke</SleptInBarracks.stages.1.label>
+  <SleptInBarracks.stages.1.description>Meine Baracke ist ein schrecklicher Ort.</SleptInBarracks.stages.1.description>
+
+  <SleptInBarracks.stages.4.label>Klein wenig eindrucksvolle Baracke</SleptInBarracks.stages.4.label>
+  <SleptInBarracks.stages.4.description>Meine Baracke sieht wirklich ganz nett aus. Ich wünschte, ich hätte mein eigenes Schlafzimmer.</SleptInBarracks.stages.4.description>
+
+  <SleptInBarracks.stages.5.label>Eindrucksvolle Baracke</SleptInBarracks.stages.5.label>
+  <SleptInBarracks.stages.5.description>Meine Baracke sieht eindrucksvoll aus. Ich mag es. Ich wünschte, ich hätte mein eigenes Schlafzimmer.</SleptInBarracks.stages.5.description>
+
+  <SleptInBarracks.stages.6.label>Sehr eindrucksvolle Baracke</SleptInBarracks.stages.6.label>
+  <SleptInBarracks.stages.6.description>Meine Baracke ist sehr beeindruckend. Ich liebe es!</SleptInBarracks.stages.6.description>
+
+  <SleptInBarracks.stages.7.label>Extrem eindrucksvolle Baracke</SleptInBarracks.stages.7.label>
+  <SleptInBarracks.stages.7.description>Meine Baracke sieht extrem eindrucksvoll aus. Das ist der beste Ort überhaupt!</SleptInBarracks.stages.7.description>
+
+  <SleptInBarracks.stages.8.label>Unglaublich eindrucksvolle Baracke</SleptInBarracks.stages.8.label>
+  <SleptInBarracks.stages.8.description>Meine Baracke sieht unglaublich eindrucksvoll aus. Das ist der beste Ort überhaupt!</SleptInBarracks.stages.8.description>
+
+  <SleptInBarracks.stages.9.label>Übernatürlich traumhafte Baracke</SleptInBarracks.stages.9.label>
+  <SleptInBarracks.stages.9.description>Meine Baracke ist der beste Ort, den man sich vorstellen kann. Es ist wunderschön.</SleptInBarracks.stages.9.description>
+  
+  
+  
+  
+</LanguageData>

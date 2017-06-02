@@ -6,10 +6,10 @@
   <Muffalo.lifeStages.1.label>junger Muffalo</Muffalo.lifeStages.1.label>
   <Muffalo.lifeStages.2.label>Muffalo</Muffalo.lifeStages.2.label>
 
-  <PackMuffalo.label>Muffalo</PackMuffalo.label>
-  <PackMuffalo.lifeStages.0.label>Muffalo Kalb</PackMuffalo.lifeStages.0.label>
-  <PackMuffalo.lifeStages.1.label>junger Muffalo</PackMuffalo.lifeStages.1.label>
-  <PackMuffalo.lifeStages.2.label>Muffalo</PackMuffalo.lifeStages.2.label>
+  <Gazelle.label>Gazelle</Gazelle.label>
+  <Gazelle.lifeStages.0.label>Gazellen Kalb</Gazelle.lifeStages.0.label>
+  <Gazelle.lifeStages.1.label>junge Gazelle</Gazelle.lifeStages.1.label>
+  <Gazelle.lifeStages.2.label>Gazelle</Gazelle.lifeStages.2.label>
 
   <Iguana.label>Leguan</Iguana.label>
   <Iguana.lifeStages.0.label>Leguan-Junges</Iguana.lifeStages.0.label>
@@ -25,10 +25,5 @@
   <Dromedary.lifeStages.0.label>Dromedarkalb</Dromedary.lifeStages.0.label>
   <Dromedary.lifeStages.1.label>junges Dromedar</Dromedary.lifeStages.1.label>
   <Dromedary.lifeStages.2.label>Dromedar</Dromedary.lifeStages.2.label>
-
-  <Elephant.label>Elefant</Elephant.label>
-  <Elephant.lifeStages.0.label>Elefantenbaby</Elephant.lifeStages.0.label>
-  <Elephant.lifeStages.1.label>junger Elefant</Elephant.lifeStages.1.label>
-  <Elephant.lifeStages.2.label>Elefant</Elephant.lifeStages.2.label>
 
 </LanguageData>

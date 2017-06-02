@@ -14,25 +14,32 @@
   <Never>Nicht erlauben</Never>
 
   <!-- Price types -->
-
   <PriceTypeVeryCheap>sehr billig</PriceTypeVeryCheap>
   <PriceTypeCheap>billig</PriceTypeCheap>
   <PriceTypeNormal>normal</PriceTypeNormal>
   <PriceTypeExpensive>teuer</PriceTypeExpensive>
   <PriceTypeExorbitant>überteuert</PriceTypeExorbitant>
 
+  <!-- Storage priority labels -->
+  <StoragePriorityUnstored>nicht gelagert</StoragePriorityUnstored>
+  <StoragePriorityLow>niedrig</StoragePriorityLow>
+  <StoragePriorityNormal>normal</StoragePriorityNormal>
+  <StoragePriorityPreferred>bevorzugt</StoragePriorityPreferred>
+  <StoragePriorityImportant>wichtig</StoragePriorityImportant>
+  <StoragePriorityCritical>kritisch</StoragePriorityCritical>
+  
   <!-- Food type flags -->
   <FoodTypeFlags_VegetableOrFruit>Früchte</FoodTypeFlags_VegetableOrFruit>
   <FoodTypeFlags_Meat>Rohes Fleisch</FoodTypeFlags_Meat>
   <FoodTypeFlags_Corpse>Leichen</FoodTypeFlags_Corpse>
-  <FoodTypeFlags_Seeds>Samen</FoodTypeFlags_Seeds>
+  <FoodTypeFlags_Seed>Samen</FoodTypeFlags_Seed>
   <FoodTypeFlags_AnimalProduct>Tierische Produkte</FoodTypeFlags_AnimalProduct>
   <FoodTypeFlags_Plant>Pflanzen</FoodTypeFlags_Plant>
   <FoodTypeFlags_Tree>Bäume</FoodTypeFlags_Tree>
   <FoodTypeFlags_Meal>Essen</FoodTypeFlags_Meal>
   <FoodTypeFlags_Processed>Verarbeitetes Essen</FoodTypeFlags_Processed>
-  <FoodTypeFlags_NutritionalDrug>Flüssigkeiten</FoodTypeFlags_NutritionalDrug>
-  <FoodTypeFlags_AnimalKibble>Trockenfutter</FoodTypeFlags_AnimalKibble>
+  <FoodTypeFlags_Liquor>Flüssigkeiten</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Kibble>Trockenfutter</FoodTypeFlags_Kibble>
 
   <!-- Quality category -->
 
@@ -72,13 +79,14 @@
 
   <!-- Hilliness -->
 
-  <Hilliness_Flat>Ebene</Hilliness_Flat>
-  <Hilliness_SmallHills>Kleine Hügel</Hilliness_SmallHills>
-  <Hilliness_LargeHills>Große Hügel</Hilliness_LargeHills>
-  <Hilliness_Mountainous>Bergig</Hilliness_Mountainous>
-
+  <Hilliness_Flat>eben</Hilliness_Flat>
+  <Hilliness_SmallHills>kleine Hügel</Hilliness_SmallHills>
+  <Hilliness_LargeHills>große Hügel</Hilliness_LargeHills>
+  <Hilliness_Mountainous>bergig</Hilliness_Mountainous>
+  <Hilliness_Impassable>unpassierbar</Hilliness_Impassable>
+  
   <!-- Steam workshop interaction -->
-
+ 
   <WorkshopInteractStage_CreatingItem>Erstellen</WorkshopInteractStage_CreatingItem>
   <WorkshopInteractStage_SubmittingItem>Übertragen</WorkshopInteractStage_SubmittingItem>
   <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Ungültig</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
@@ -88,6 +96,10 @@
   <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Lade Vorschau hoch</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Übernehme Änderungen</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
+  <!-- Mod sources -->
+  <ContentSource_LocalFolder>Lokaler Ordner</ContentSource_LocalFolder>
+  <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
+  
   <!-- Trainable intelligence -->
 
   <TrainableIntelligence_None>Keine</TrainableIntelligence_None>
@@ -115,4 +127,48 @@
   <HediffGrowthMode_Stable>stabil</HediffGrowthMode_Stable>
   <HediffGrowthMode_Remission>abklingend</HediffGrowthMode_Remission>
 
+  <!-- TechLevel -->
+  
+  <TechLevel_Animal>Tier</TechLevel_Animal>
+  <TechLevel_Neolithic>Steinzeit</TechLevel_Neolithic>
+  <TechLevel_Medieval>Mittelalter</TechLevel_Medieval>
+  <TechLevel_Industrial>Industrie</TechLevel_Industrial>
+  <TechLevel_Spacer>Raumfahrer</TechLevel_Spacer>
+  <TechLevel_Ultra>Ultra</TechLevel_Ultra>
+  <TechLevel_Transcendent>Transzendenz</TechLevel_Transcendent>
+
+  <!-- Player pawns arrive method -->
+  
+  <PlayerPawnsArriveMethod_Standing>Stehend</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>Rettungskapsel</PlayerPawnsArriveMethod_DropPods>
+
+  <!-- Pawn generation context -->
+  
+  <PawnGenerationContext_All>Alle Charaktere</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>Spieler Start-Charaktere</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>Nichtspieler Charaktere</PawnGenerationContext_NonPlayer>
+  
+  <!-- Animal name display mode -->
+  
+  <ShowAnimalNames>Zeige Tiernamen</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>Zahm (benannt)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Zahm (alle)</AnimalNameDisplayMode_TameAll>
+  
+  <!-- Temperature -->
+  
+  <Celsius>Celsius</Celsius>
+  <Fahrenheit>Fahrenheit</Fahrenheit>
+  <Kelvin>Kelvin</Kelvin>
+  
+  <!-- Direction8Way -->
+  
+  <Direction8Way_North_Short>N</Direction8Way_North_Short>
+  <Direction8Way_NorthEast_Short>NO</Direction8Way_NorthEast_Short>
+  <Direction8Way_East_Short>O</Direction8Way_East_Short>
+  <Direction8Way_SouthEast_Short>SO</Direction8Way_SouthEast_Short>
+  <Direction8Way_South_Short>S</Direction8Way_South_Short>
+  <Direction8Way_SouthWest_Short>SW</Direction8Way_SouthWest_Short>
+  <Direction8Way_West_Short>W</Direction8Way_West_Short>
+  <Direction8Way_NorthWest_Short>NW</Direction8Way_NorthWest_Short>
+  
 </LanguageData>
