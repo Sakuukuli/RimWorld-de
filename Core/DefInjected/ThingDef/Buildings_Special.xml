@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: infinite chemreactor -->
+  <InfiniteChemreactor.label>unendlicher Kraftstoffreaktor</InfiniteChemreactor.label>
+  <!-- EN: Slowly generates chemfuel by a complex series of chemical reactions, using atoms extracted from the air. -->
+  <InfiniteChemreactor.description>Generiert langsam Kraftstoff, indem mithilfe einer Serie komplexer chemischer Reaktionen Atome aus der Atmosphäre extrahiert werden.</InfiniteChemreactor.description>
+  
+  <!-- EN: psychic emanator -->
+  <PsychicEmanator.label>psychischer Strahler</PsychicEmanator.label>
+  <!-- EN: An ancient device that projects a soothing psychic field around itself. This improves the mood of anyone nearby. Works through walls. -->
+  <PsychicEmanator.description>Ein antikes Gerät, das ein beruhigendes psychisches Feld um sich herum projiziert. Es verbessert die Stimmung von jedem in der Nähe. Funktioniert durch Wände hindurch.</PsychicEmanator.description>
+  
+  <!-- EN: vanometric power cell -->
+  <VanometricPowerCell.label>vanometrische Energiezelle</VanometricPowerCell.label>
+  <!-- EN: Generates free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
+  <VanometricPowerCell.description>Generiert freie Energie, für immer, ohne Treibstoff zu verbrauchen. Diese Technologie wurde von Archotechnologen entwickelt und übersteigt selbst den Wissensstand der meisten Glitzerweltgesellschaften. Niemand weiß genau, wie sie funktioniert, aber die Gelehrten glauben, dass sie irgendwie Energie direkt aus den Fluktuationen des Quantenschaums extrahiert.</VanometricPowerCell.description>
+  
+</LanguageData>

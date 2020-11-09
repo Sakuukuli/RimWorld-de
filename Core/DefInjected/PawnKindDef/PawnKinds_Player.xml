@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: colonist -->
+  <Colonist.label>Kolonist</Colonist.label>
+  <Colonist.labelFemale>Kolonistin</Colonist.labelFemale>
+  <Colonist.labelPlural>Kolonisten</Colonist.labelPlural>
+  
+  <!-- EN: member -->
+  <Tribesperson.label>Ureinwohner</Tribesperson.label>
+  <Tribesperson.labelFemale>Ureinwohnerin</Tribesperson.labelFemale>
+  <Tribesperson.labelPlural>Ureinwohner</Tribesperson.labelPlural>
+  
+</LanguageData>

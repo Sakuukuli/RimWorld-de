@@ -1,0 +1,37 @@
+agavenfrüchte
+beeren
+brandbolzen verschießen
+emp-handgranaten
+fliegend
+friedensgespräche
+giftzähne
+granate verschießen
+granitblöcke
+insekten
+kalksteinblöcke
+kartoffeln
+low-shield aufstellen
+marmorblöcke
+maschinenreste
+maschinenteile
+molotowcocktails
+neuankömmlinge
+neutrale antiker
+pilze
+plastahlreste
+psychoid-blätter
+rauch erzeugen
+rauchblatt-blätter
+sandsäcke
+sandsteinblöcke
+schieferblöcke
+splitterhandgranaten
+springen
+stahlreste
+transportkapseln
+wilde beeren
+wirf emp-handgranate
+wirf molotowcocktail
+wirf splitterhandgranate
+zähne
+zerstörte sandsäcke

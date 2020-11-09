@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Arresting worsens faction relations -->
+  <ArrestingCreatesEnemies.label>Gefangennahme verschlechtert Beziehung zur Fraktion</ArrestingCreatesEnemies.label>
+  <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist or a colonist from another faction, their entire faction may become your enemy. \n\nThis arrest has a {0} chance of succeeding, based on the social skill of the arrester. -->
+  <ArrestingCreatesEnemies.helpText>Warnung: Dein Versuch, die Person gefangenzunehmen, bleibt vermutlich nicht unbemerkt.\n\nWenn du einen Nicht-Kolonisten oder einen Kolonisten einer anderen Fraktion gefangen nimmst, könnte seine Fraktion dir gegenüber feindselig werden.\n\nDiese Gefangennahme hat eine Erfolgschance von {0}, abhängig von den sozialen Fähigkeiten der Person, die die Gefangennahme durchführt.</ArrestingCreatesEnemies.helpText>
+  
+  <!-- EN: Maximum number of player colonies -->
+  <MaxNumberOfPlayerSettlements.label>Maximale Anzahl von Spielerkolonien</MaxNumberOfPlayerSettlements.label>
+  <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
+  <MaxNumberOfPlayerSettlements.helpText>Warnung: RimWorld ist so konzipiert, dass es jeweils nur mit einer Spielerkolonie gespielt werden kann. Mehrere Spielerkolonien sind nur als experimentelles Test-Feature erlaubt.\n\nDas Spielen mit mehreren Kolonien verschlechtert die Balance des Spiels, erfordert mehr Aufmerksamkeit und kann zu Leistungseinbußen führen.\n\nWir empfehlen dir, zumindest für die ersten paar Spiele nur mit maximal einer Kolonie zu spielen.</MaxNumberOfPlayerSettlements.helpText>
+  
+  <!-- EN: Flick designations only designate -->
+  <SwitchFlickingDesignation.label>'Schalter betätigen' wird nicht sofort ausgeführt</SwitchFlickingDesignation.label>
+  <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
+  <SwitchFlickingDesignation.helpText>Hinweis: Mit diesem Befehl wird lediglich festgelegt, dass ein Kolonist den Schalter betätigen soll.\n\nBevor etwas passiert, muss ein Kolonist kommen und den Schalter von Hand betätigen.</SwitchFlickingDesignation.helpText>
+  
+  <!-- EN: Trade goods and trade beacons -->
+  <TradeGoodsMustBeNearBeacon.label>Handelswaren und Handelsbaken</TradeGoodsMustBeNearBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <TradeGoodsMustBeNearBeacon.helpText>Um Waren oder Silber an orbitale Händler zu versenden, musst du eine ORBITALE HANDELSBAKE bauen und in ihrer Nähe eine Lagerzone erstellen.</TradeGoodsMustBeNearBeacon.helpText>
+  
+  <!-- EN: Trading permit requirements -->
+  <TradingRequiresPermit.label>Handelsvoraussetzungen</TradingRequiresPermit.label>
+  <!-- EN: Trading here requires the title of {0}.\n\nEnsure any trade caravan you send has someone with the title of {0} or higher. -->
+  <TradingRequiresPermit.helpText>Der Handel hier erfordert jemanden, der {0} ist.\n\nVergewissere dich, dass jede Handelskarawane, die du hier hinschickst, jemanden dabei hat, der mindestens {0} ist.</TradingRequiresPermit.helpText>
+  
+</LanguageData>

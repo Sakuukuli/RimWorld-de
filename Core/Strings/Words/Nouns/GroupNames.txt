@@ -1,0 +1,13 @@
+﻿Gesellschaft
+Besatzung
+Gruppe
+Mannschaft
+Meute
+Armee
+Schar
+Organisation
+Truppe
+Einheit
+Fraktion
+Bande
+

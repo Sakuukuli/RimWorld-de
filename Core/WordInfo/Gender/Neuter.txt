@@ -1,0 +1,290 @@
+abgestürztes shuttle
+absturz-baby
+affenbaby
+alpaka
+alpakafohlen
+anima-gras
+antikes raumschiffteil (ankommend)
+archotech-auge
+archotech-bein
+armeekind
+armes kind
+ass
+aufgeschüttetes gestein
+autokanonengeschoss
+bärenfell
+bärenjunges
+barett
+bauernkind
+bauteil
+bett
+biberjunges
+bier
+bionisches auge
+bionisches bein
+bionisches herz
+bionisches ohr
+bisonkalb
+blaufell
+blut
+bombardement
+boomalopekitz
+boomrattenjunges
+brandgeschoss
+briolux
+bunkerkind
+cembalo
+chinchilla
+chinchillababy
+chinchillafell
+cochlea-implantat
+dämmerlicht
+diadem
+dickes fell
+doppelbett
+drogenlabor
+dromedar
+dromedarkalb
+dschungelkind
+dünnes leder
+echsenleder
+eichhörnchen
+eichhörnchenjunges
+eingestürztes gestein
+eisbärenjunges
+eiskind
+elchkalb
+elefantenbaby
+elefantenhaut
+elektrisches krematorium
+eltex-hemd
+emi-feld
+emuei (befr.)
+emuküken
+entenei (befr.)
+entenei (unbefr.)
+entenküken
+erbrochenes
+eselfohlen
+experiment
+ferkel
+feuer
+flake
+flickenleder
+fohlen
+formelles hemd
+fortschrittliches bauteil
+fruchtwasser
+gänseei (befr.)
+gänseei (unbefr.)
+gassenkind
+gazellenjunges
+gebiss
+gelandetes raumschiff
+geothermiekraftwerk
+gerinnungsmittel
+geröll
+glaskind
+glattes leder
+glitzerkind
+go-juice
+gold
+golderz
+grab
+gras
+großkatzenfell
+häschen
+hätschelkind
+heiler-mech-serum
+hemd
+herz
+heu
+heugras
+hirschkalb
+hohes gras
+höhlenkind
+holz
+horn
+huhn
+hühnerei (befr.)
+hühnerei (unbefr.)
+hundeleder
+hydrokulturbecken
+ikwa
+impulsgewehr
+infernokanonengeschoss
+insekt
+insektengelee
+intensivbett
+jump-pack
+junges alpaka
+junges chinchilla
+junges dromedar
+junges eichhörnchen
+junges nashorn
+junges riesenfaultier
+junges rind
+junges schwein
+junges wasserschwein
+junges wildschwein
+käferblut
+kalb
+kasuarei (befr.)
+kasuarküken
+katzenbaby
+kind
+klavier
+kobra-ei (befr.)
+koloniekind
+komakind
+königliches bett
+korsett
+kriegskind
+kriminelles kind
+küken
+künstliches herz
+ladenkind
+lagerfeuer
+lamm
+langschwert
+leguanei (befr.)
+leguanjunges
+linken vorderbein
+lmg
+low-shield-pack
+luchsjunges
+lustiges kind
+luziferium
+mechanoidennest
+mech-high-shield
+mech-low-shield
+meerschweinchen
+meerschweinchenfell
+messer
+minigeschütz
+model
+monoschwert
+moos
+mote
+muffalokalb
+mündel
+mundwerkzeug
+musik-idol
+nadelgeschoss
+nashorn
+nashornkalb
+nashornleder
+nettes kind
+neutramin
+niedriges gestrüpp
+orakel
+orbitales mech-cluster zielgerät
+pantherbaby
+penoxyzylin
+persona-monoschwert
+persona-plasmaschwert
+pfeilblatt
+pferd
+pilum
+pizzakind
+plasmaschwert
+polarlicht
+pop-idol
+präzisionsgewehr
+psychoid
+pumababy
+ranger-kind
+rasiermesserscharfem gebiss
+rattenjunges
+rauchblatt
+raumschiffstück (ankommend)
+reanimierer-mech-serum
+rechten vorderbein
+regal
+reiches kind
+rentierkalb
+repetiergewehr
+riesenfaultier
+riesenfaultierbaby
+rind
+rotwild
+schaf
+schiffskind
+schiffsteil
+schiffsteil (entlauber)
+schiffsteil (psychischer brummer)
+schiffstriebwerk
+schildkrötenei (befr.)
+schildkrötenjunges
+schneehäschen
+schwein
+schweineleder
+sensorcluster
+shuttle
+shuttle (abstürzend)
+shuttle (landend)
+shuttle (startend)
+silber
+silbererz
+smokepop-pack
+solares nadelloch
+soldatenkind
+spiel-von-ur-brett
+sprungschild
+stadtkind
+stammeskind
+stammeskopftuch
+steinbockkalb
+straßenkind
+straußenei (befr.)
+straußenküken
+stromkabel
+sturmgewehr
+süßen kleinen gebiss
+syngarn
+tech-kind
+teleskop
+testsubjekt
+teufelsgarn
+thrumbo-baby
+thrumbofell
+thrumbohorn
+tierbett
+toxisches kind
+traumakind
+trockenfutter
+truthahnei (befr.)
+truthahnküken
+t-shirt
+unfertiges bauteil
+unfertiges bionisches teil
+unfertiges klavier
+unfertiges musikinstrument
+unfertiges pack
+unfertiges prothetisches teil
+unnatürliches wetter
+uranerz
+urangeschoss
+urbweltkind
+verglühendes low-shield
+verpacktes objekt
+vogelleder
+waisenkind
+waldkind
+waschbärenjunges
+wasserfestes stromkabel
+wasserschwein
+wasserschweinferkel
+weltuntergangskind
+wetterkontrollgerät
+wildes kind
+wildschwein
+wolfsfell
+wunderkind
+yak-kalb
+yayo
+zerschlagenes imperium
+ziegenkitz
+zielgerät: orbitale strahlenwaffe
+zielgerät: orbitales bombardement
+zielgerät: tornado generator
